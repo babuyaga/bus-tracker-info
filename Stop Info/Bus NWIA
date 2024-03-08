@@ -1,0 +1,122 @@
+[
+    {
+        "stopID": 68000,
+        "stopNumber": 1141,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "101",
+        "stopName": "TRANSIT TERMINAL",
+        "latitude": 43.140778,
+        "longitude": -80.26475,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68306,
+        "stopNumber": 1475,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "885",
+        "stopName": "HARDY RD & ZATONSKI AVE",
+        "latitude": 43.160156,
+        "longitude": -80.331604,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68307,
+        "stopNumber": 1476,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "888",
+        "stopName": "OAK PARK & SAVANNAH OAKS",
+        "latitude": 43.163097,
+        "longitude": -80.336876,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68308,
+        "stopNumber": 1477,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "886",
+        "stopName": "175 SAVANNAH OAKS",
+        "latitude": 43.163803,
+        "longitude": -80.33475,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68309,
+        "stopNumber": 1478,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "887",
+        "stopName": "SAVANNAH OAKS & ZATONSKI",
+        "latitude": 43.165276,
+        "longitude": -80.3322,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68310,
+        "stopNumber": 1479,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "926",
+        "stopName": "FERRERO BLVD.",
+        "latitude": 43.164288,
+        "longitude": -80.32673,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68477,
+        "stopNumber": 1674,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "1012",
+        "stopName": "AVA RD. & HARDY RD",
+        "latitude": 43.164658,
+        "longitude": -80.295044,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68478,
+        "stopNumber": 1675,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "1013",
+        "stopName": "90 AVA RD.",
+        "latitude": 43.16449,
+        "longitude": -80.29502,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68479,
+        "stopNumber": 1474,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "889",
+        "stopName": "375 HARDY RD.",
+        "latitude": 43.1599,
+        "longitude": -80.32533,
+        "isPublic": true,
+        "isActive": true
+    },
+    {
+        "stopID": 68532,
+        "stopNumber": 6513,
+        "seq": 0,
+        "patternID": 0,
+        "stopCode": "102",
+        "stopName": "Darling St Terminal",
+        "latitude": 43.140274,
+        "longitude": -80.26493,
+        "isPublic": true,
+        "isActive": true
+    }
+]

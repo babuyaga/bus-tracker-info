@@ -1,0 +1,1190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLANT QUALITY PROGRAM MANUAL
+
+
+
+
+
+Habitat28 Factory,
+Unit 3, 47 Morton Ave. E, Brantford,
+Ontario. N3R 2N6
+
+
+
+
+
+
+
+
+
+
+
+Approved By  	
+General Manager Date  	
+Revision No.  	
+ 
+Section	A Issue:
+Date: 	
+
+
+
+
+PREFACE
+
+
+This Quality Program Manual has been prepared as an outline of the Quality Program as practiced in Habitat28, hereinafter referred to as the Company.
+
+
+Revisions to this manual will be made only with the approval of (General Manager, or designated responsible officer) and according to the procedure in Section “H”
+
+
+Distribution of this manual shall be to all managers and supervisory personnel, and to all inspectors.
+
+
+This manual is a controlled document issued by the Quality Program Manager. It is the responsibility of the holder of this document to update the document with any revisions and to acknowledge receipt of the revisions.
+
+
+
+
+
+
+(Signature) General Manager
+
+
+(Signature)
+Quality Program Manager
+ 
+Section	A Issue:
+Date: 	
+
+
+
+
+CONTENTS
+
+
+TITLE	SECTION	Page
+Title Page		1
+Preface	A	2
+Contents	A	3
+Recipient of Manual	A	4
+Chart of Revisions	A	5
+Quality Policy and Objectives	B	6-7
+Company Organization Chart	C	8
+Quality Program Organization	D	9-10
+Instrument Calibration Records	D	11
+Quality Program Implementation	E	12-16
+Record of Plumbing Tests	E	17-18
+Record of Electrical Tests	E	19
+Record of Gas Leak Tests (If applicable)	E	20
+Record of Moisture Content Tests	E	21
+Customer Complaint	E	22
+Document Initiation	F	23-24
+Document Control	F	25
+Disposition of Defective Materials and Components	F	26
+Quality Records	G	27
+Non-Conformance Reports	G	28
+Review and Revision of the Manual	H	29
+Quality Program Personnel	Appendix A	30
+Plant Operations	Appendix B	31
+Moving & Installation Instructions	Appendix C	32-33
+Letter to Owner	Appendix D	34
+Record of Customer Complaint	Appendix E	35
+Technical Checklist – templates	Appendix F	36-37
+
+
+
+ 
+Section	A Issue:
+Date: 	
+
+
+
+
+RECIPIENT OF THIS MANUAL
+
+
+The following parties are the recipient of this manual:
+
+
+Serial	Name	Company	Phone Number	Fax Number
+1		CSA Group	(780) 450-2111	(780) 461-5322
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+ 
+Section	A Issue:
+Date: 	
+
+
+
+
+CHART OF REVISIONS
+
+
+
+
+
+Issue Number	Date of Issue	Description
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+ 
+Section	B Issue:
+Date: 	
+
+
+
+
+QUALITY POLICY AND OBJECTIVES
+
+
+1.	Quality Control Policy:
+It is the policy of the company to provide its customers with a line of factory-built tiny houses, which meet all the applicable standards and codes.
+
+2.	Company Quality Objectives
+The objectives of the company with respect to quality are to:
+
+a)	Design, Manufacture, and market all company products – with good quality and inherent customer value – that satisfy the requirements of all the applicable standards and codes.
+b)	Build public confidence in products bearing the company name through the reliability of those products.
+
+
+3.	Quality Program Policy
+a)	The company Quality Policy shall be implemented through its Quality Program, directed by the Quality Program Manager, who is responsible for its effectiveness and efficiency. Achievement of the Company Objective with respect to quality shall be the responsibility of all Department Managers.
+b)	The Quality Program, established to implement the Company Quality Policy shall satisfy the requirements of the Canadian Standards Association certification policy with respect to required procedures and evidence of conformity to the following applicable standards:
+
+
+
+
+
+
+(Signature) General Manager
+ 
+Section	B Issue:
+Date: 	
+
+
+
+
+Quality Policy and Objectives Cont’d
+
+CODES AND STANDARDS:
+	CSA Standard A277-16	-	Procedure for certification of prefabricated buildings,
+modules, and panels; and
+	CSA Standard C22.1-21	-	Canadian Electric Code, Part I,
+
+TO SELECT AS APPROPRIATE…
+
+For Prefabricated Homes or Commercial/Industrial Buildings:
+	National Building Code – 2019 Alberta Edition (NBC-AE)
+	National Building Code – 2015, As Provincially Amended
+	National Plumbing Code of Canada – 2015, As Provincially Amended; and
+	Natural Gas and Propane Installation Code (B149.1-15), As Provincially Amended;
+
+
+For Manufactured Homes:
+
+	CSA Z240 MH Series–16 Manufactured Homes
+	National Building Code – 2015, As Provincially Amended
+	National Plumbing Code of Canada – 2015, As Provincially Amended; and
+	Natural Gas and Propane Installation Code (B149.1-15), As Provincially Amended;
+
+
+Other:
+
+	CSA Z240.10.1-16 Site preparation, foundation, and installation of buildings
+
+
+
+
+
+(Signature) General Manager
+ 
+Section	C Issue:
+Date: 	
+
+
+
+
+COMPANY ORGANIZATION CHART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: this chart is illustrative only; it is not intended to set out an organization chart format for any company.
+ 
+Section	D Issue:
+Date: 	
+
+QUALITY PROGRAM ORGANIZATION
+
+
+1.	Quality Program Manager:
+
+1.1	The Quality Program Manager shall be the final authority for the company under the General manager on all matters pertaining to product quality as established by engineering drawings and specifications, applicable standards and codes, customer requirements, and company quality program policies and procedures.    He shall have authority to gather data on all matters relating to quality, and to take all reasonable measures to prevent non-conforming products.
+
+1.2	The Quality Program Manager shall be responsible for the direction of the Quality Program and for its effectiveness and efficiency in achieving output of conforming products. He shall be responsible for developing, with other managers, the procedures necessary for adequate control of quality. He shall be responsible for final approval and release of company products on the basis of adequate evidence of conformity to all specified requirements.
+
+1.3	The Quality Program Manager shall be accountable to the General Manager for the results of his decisions and actions and those of personnel under his directions.
+
+1.4	The Quality Program Manager or the General manager is responsible for hiring or contracting at least one qualified tradesperson / licensed personnel in the following positions: Construction (Framing), Electrical, Plumbing, Gas- as applicable). The certificates, records or other documentation for these qualified tradespersons shall be kept in the employee file or the contractor file for CSA review upon request.
+
+1.5	Upon receipt of CSA Labels, the labels will be kept in a locked cabinet that only the Quality Control Person and the General Manager will have a key to access.
+
+1.6	Before qualifying the RTM unit for the CSA certification and application of the CSA Label, all checklists and tests must be completed by each work station, dated and signed by the Certified Trades Person and dated and signed by the Quality Control Person.
+
+1.7	When a finished RTM Unit fails a technical test or is found with a deficient item(s) the incomplete or problem area will be identified. Management will assess the deficiency and determine the solution. The repair or solution will be applied and the Unit will then be tested again to determine if it now qualifies for CSA label. The CSA Label will then be applied to the qualified RTM.
+
+2.	Quality Program Organization:
+
+2.1	The Quality Program Organization is responsible for the followings:
+•	Coordinating the efforts of all departments to control quality through planning at all stages of design, development, purchasing, manufacturing and delivery.
+•	Making sure all measuring equipment is periodically calibrated. (See completed form)
+ 
+Section	D Issue:
+Date: 	
+
+•	Developing & maintaining procedures necessary to evaluate, report the degree of control achieved and the cause of errors.
+•	Ensuring that corrective actions are taken on all production.
+•	Reviewing all non conformances for root cause and provide preventive corrective action changes to the quality system.
+
+2.2	The names and brief work history of the Quality Program Personnel and their areas of responsibility are described in Appendix I.
+
+2.3	The Quality Program Manager is responsible for ensuring that the general staff and production personnel have been trained for the duties they are to perform. Employee competency is assessed through periodic performance assessments and continuous training requirements in relation to the job specifics are identified.
+
+2.4	The training sessions, training certificates and other documents regarding training for each employee shall be kept on file and available for review by the CSA Group inspector.
+
+2.5	The Quality Program Manager or a designate is responsible for hiring and monitoring any sub- contractors that are used within the production facility. The Quality Program Manager is to confirm all sub-contractors are properly qualified and that they understand the Company’s Quality Program. Each contractor is to supply all trade certificates and ensure they have proper WCB coverage. The Quality Program Manager or the designate is responsible to ensure that any materials supplied by sub-contractors comply with the requirements of the Quality Program, Codes, Standards and CSA requirements including CSA Building Products Notice No. 14B.
+
+2.6	Quality Control Manager is to ensure that all project documentation packages are completed before applying CSA labels and AMA insignia for Alberta.
+ 
+
+
+
+
+INSTRUMENT CALIBRATION RECORDS
+ 
+Section	D Issue:
+Date: 	
+ 
+
+PLUMBING:	Pressure Gauge: 	
+(Make)	and	(Model)
+Serial No.	 Reading Range:
+Calibration interval specified by instrument manufacturer: Calibration Date:
+
+ELECTRICAL:	Dielectric Strength Tester or
+Megger Tester:	
+(Make)	and	(Model)
+Serial No.	 Reading Range:
+Calibration interval specified by instrument manufacturer: Calibration Date:
+
+GAS:	Pressure Gauge: 	
+(Make)	and	(Model)
+Serial No.	 Reading Range:
+Calibration interval specified by instrument manufacturer: Calibration Date:
+
+
+Moisture:	Moisture Meter:   	
+(Make)	and	(Model)
+Serial No.	 Reading Range:
+Calibration interval specified by instrument manufacturer: Calibration Date:
+
+Air Flow:	Air Flow Meter:   	
+(Make)	and	(Model)
+Serial No.	 Reading Range:
+ 
+Calibration interval specified by instrument manufacturer: Calibration Date:
+(Signature)
+Quality Manager / Rep.
+ 
+
+
+Section	E Issue:
+Date: 	
+
+QUALITY PROGRAM IMPLEMENTATION
+
+
+1.	GENERAL:
+The control and assurance of quality is achieved through the cooperative efforts of all departments. The Quality Program Manager maintains surveillance over the quality related aspects of their activities & reports and promotes action to correct all serious discrepancies.
+He also promotes actions to improve procedures and reports on all the over-all results to the General Manager.
+
+2.	ENGINEERING:
+Plans used in the production of our product are produced by our own engineering staff. All designs are checked for compliance with the applicable requirements by the quality program personnel before passed along to the production and sales departments.
+
+3.	INSTRUMENT CALIBRATION:
+The Quality Program Manager shall ensure all measuring equipment are periodically calibrated. Instrument calibration to be repeated whenever there is a reason to doubt the accuracy of the results and/or at intervals not exceeding 12 months.
+
+4.	PURCHASING:
+All plant purchasing is routed through the plant purchasing agent, acting with the foreman of the particular trade requiring the product. All items are ordered specifying, where relevant, that the recognized certification marking be applied to the product in compliance with CSA Certification Notice “Building Products No. 14B”.
+
+5.	RECEIVING:
+5.1	The receiving inspector checks a random sampling of all incoming materials and components for damage, defect and compliance with the purchase order. All components used for: plumbing, gas, heating and electrical are checked for CSA certification or acceptable third party agency mark. Window and doors are checked to ensure they comply with the CSA standards
+
+5.2	If the incoming materials and components are found satisfactory as specified and in good condition, the receiving inspector makes the size of sample checked on a copy of the invoice and forwards this copy to the quality program manager.
+
+5.3	If the incoming materials and components are found to be questionable, the receiving inspector tags the entire shipment accordingly and forwards his/her comments to the Quality Program Manager for a decision as to the usage or non-usage of the goods.
+ 
+Section	E Issue:
+Date: 	
+
+Quality Program Implementation Cont’d
+
+
+6.	PRODUCTION INSPECTION:
+
+6.1	Production checklists have been developed for each workstation or related series of workstations. It may be necessary from time to time to amend these checklists as new corrective/preventive Actions are implemented. On each checklist, a space is provided to outline the deficiencies requiring corrective action. The checklist shall not be signed, nor the product accepted until all deficiencies listed have been corrected. All checklists stay with the product through the production sequence and are filed by the quality program personnel upon final acceptance.
+
+6.2	There is on-line product inspection carried out by quality inspectors in each workstation in addition to that done by production crew for the purpose of checking that the tiny house segments produced conform to the drawings and specifications prepared by engineering. The quality manager will supervise and coordinate the inspection of the entire production. The checklists are to be initialed and dated by the person who completed the work and then signed by the Quality Manager or their designated personnel.
+
+6.3	This section outlines the work done at each workstation in the production line:
+
+•	Workstation #1	-	Floor Assembly.
+•	Workstation #2	-	Wall Assembly.
+•	Workstation #3	-	Roof Assembly.
+•	Workstation #4	-	Electrical, Plumbing & Heating Rough-ins.
+•	Workstation #5	-	Roof Shingles.
+•	Workstation #6	-	Exterior Windows and Doors.
+•	Workstation #7	-	Insulation and Interior Vapour Barrier.
+•	Workstation #8	-	Perimeter Wall Interior Sheathing.
+•	Workstation #9	-	Vinyl Siding, Metal Soffit and Fascia.
+•	Workstation #10 -	Gyproc Installation and Taping.
+•	Workstation #11 -	Finishing Carpentry.
+•	Workstation #12 -	Painting.
+•	Workstation #13 -	Cabinet Installation.
+•	Workstation #14 -	Floor Coverings.
+•	Workstation #15 -	Plumbing and Electrical Finishes.
+ 
+Section	E Issue:
+Date: 	
+
+
+Quality Program Implementation Cont’d
+
+
+7.	METHODS OF TESTING:
+
+7.1	Prior to labeling and before the unit leaves the factory, the complete plumbing, gas/oil and electrical systems shall be tested on each unit produced. Testing of the heating/ventilation duct systems are to be carried out and recorded for every unit produced. Moisture check will be conducted to ensure compliance with Building Code Requirements.
+
+7.2	All tests are conducted in designated test areas in accordance with the following test methods and fully documented in the appropriate checklist. All failures in tests are noted, the fault found and corrective action taken, are noted on the checklist. Evidence of the passing of a test is by means of the signature of the Quality Inspector.
+
+
+Plumbing Tests
+
+Every potable water system shall be subjected to, and be capable of withstanding without leakage or loss of pressure, a water or air pressure of 700 kPa for 2 hours, in accordance with the applicable Plumbing Code.    When testing with water, potable water shall be used to test a potable water system.
+
+Every drain, waste and vent system shall be subjected to, and shall withstand without leakage, one of the following tests, as detailed in the applicable Plumbing Code:
+
+i)	water test; or
+ii)	air test;
+
+Water pressure test shall consist in applying a water column of at least 3 m to all joints. All opening, except the highest, are tightly closed with a testing plug or screw cap. The system or section shall be kept filled with water for 15 minutes.
+
+Air pressure test shall be conducted in accordance with the manufacture instructions. The air shall be forced into the system until the pressure reaches 35 KPa and is maintained for 15 minutes.
+
+When a final test is made; all traps are to be filled with water, the bottom and roof terminal to be sealed and pressure equivalent of 25 mm column of water maintained for 15 minutes with out adding more air.
+ 
+Section	E Issue:
+Date: 	
+
+Quality Program Implementation Cont’d
+
+Methods of testing cont’d:
+
+
+Gas Piping Systems
+
+Every gas piping system shall be subjected to, and be capable of withstanding without leakage or loss of pressure, pressure testing in accordance with the applicable Gas Installation Code.
+
+In locating leaks, the following requirements must be met:
+
+i)	an approved liquid leak detector solution or device shall be used;
+ii)	matches, candles, flames or other sources of ignition shall not be used;
+iii)	artificial illumination shall be restricted to better –powered hand flashlights of the safety type or certified explosion-proof equipment; and
+iv)	electric switches in or adjacent to the area of leakage shall not be operated, unless of the type designed for hazardous locations.
+
+
+Electrical System Tests
+
+The following tests shall be performed on the complete electrical assembly at the factory, as required by the applicable Electrical Code:
+
+a)	Continuity;
+Live conductors are tested for continuity by seeing that all fixtures or appliances connected to them operate correctly, and for receptacles a simple plug-in lamp is used at each receptacle to determine whether the receptacle circuit is continuous
+
+Ground conductors, including branch circuit grounds and skin sections are tested for continuity by a battery and lamp combination or by a battery and buzzer combination, arranged so that the lamp lights or the buzzer sounds when the two leads are in electrical contact.
+
+b)	Insulation Resistance;
+Equipment used is a 500V (dc) megger tester. Criteria for passing is that under ideal conditions, the readings of the appropriate table of the Canadian Electrical Code Part I, should be obtained as a minimum.  The test is conducted as follow:
+
+•	All circuit breakers and switches shall be in the “on” position, and all fuses are installed.
+•	One tester lead is connected to the line terminals of the service entrance panel (i.e. the two line terminals are shorted together) not including the ground.
+•	The other tester lead is connected to exposed metal.
+•	Readings are taken after a one minute application of the test voltage.
+•	If the above “per phase” test is not satisfactory, the test is repeated for each circuit.
+ 
+Section	E Issue:
+Date: 	
+
+
+Quality Program Implementation Cont’d
+
+Methods of testing cont’d:
+
+
+Electrical System Tests cont’d:
+
+As an alternative to the insulation resistance test specified above; an ac dielectric strength test may be performed, in which case, an ac voltage of 900 V shall be applied for 1 min (or 1080 V for 1 sec) between all live parts and non-current-carrying metal parts without breakdown occurring.
+
+In performing either the insulation resistance or the dielectric strength test, the neutral shall be disconnected from ground for the test and be reconnected afterwards.
+
+The polarity of all receptacles, lamp sockets and other electrical equipment shall be checked.
+
+
+Moisture Check
+
+Moisture content of lumber shall not exceed 19% at the time of installation and during construction. This is verified by a calibrated moisture meter and results recorded. A procedure is to be developed for checking and recording, it is recorded on form # (create and fill in) and are filed with each project
+
+
+Air Flow Test
+
+Airflow measurement on all supplied heating and ventilation fan(s) are done using an air flow meter accurate to within ±15% of the flow being measured and recorded for each unit. A procedure is to be developed for this testing and recording.
+ 
+Section	E Issue:
+Unit #:	Date: 	
+
+RECORD OF PLUMBING TESTS
+
+
+DWV – Rough- In:     Before any fixtures have been installed, each stack system is tested with (3 m water column or 35 KPa of air) for 15 minutes - check for leaks.
+
+Main Stack-	Date:
+Time on		Pressure on  		 Time off	Pressure off   	 Leakage
+Ensuite Stack	Date:
+
+Time on		Pressure on	 Time off	Pressure off   	 Leakage
+Kitchen Stack	Date:
+
+Time on		Pressure on	 Time off	Pressure off   	 Leakage
+Shower Stalls:	Plug openings, fill with water to top of dam and let stand for 15 minutes - check for leaks.
+
+DWV - Final:	After all fixtures have been installed, traps filled with water bottom and top terminals sealed pressure equivalent to 25mm of water, for 15 minutes – no air added check for leaks.
+Main Stack
+Time & Date on	Time off   	
+Leakage
+Ensuite Stack
+Time & Date on	Time off  	
+Leakage
+Kitchen Stack
+Time & date on	Time off 	 Leakage
+
+
+Q.P.Initial
+ 
+
+
+
+Potable System: Plug all outlets, subject system to air or water at 700 KPa (100 psi) for 2 hrs - check for leaks.
+Time & Date on		Pressure on  	 Time & Date off		Pressure off  	 Drop in Pressure   			
+
+Q.P.Initial
+
+ 
+Visual inspection of all exposed pipe satisfactory
+
+All pipes installed per drawing no. 	 Defects    	
+ 
+
+Yes	No
+ 
+Acceptance Plumbing	Q.P. Inspector	Date
+ 
+
+Section	E Issue:
+Date: 	
+
+
+RECORDS OF ELECTRICAL TESTS
+
+
+Unit Model:	 		Serial No.:	 	
+
+1-	Insulation Resistance or Dielectric Test
+
+ 
+
+Phase I to Ground Phase II to Ground Neutral to Ground
+
+
+2-	Continuity (of circuits) Test
+ 
+Module “A”	Module “B”	(where applicable)
+ 
+
+ 
+
+Circuit #1
+Circuit #2
+Circuit #3 etc.,
+ 
+Module “A”	Module “B”	(where applicable)
+ 
+
+
+3-	Polarity Test,	(of receptacles or other Electrical Equipment)
+a)	Receptacles.
+b)	Lamp sockets.
+c)	Furnace or other Electrical Equipment – may be visual inspection)
+
+
+4-	Infractions as a result of Tests and Corrective Actions a)
+b) etc.
+
+
+5-	Infractions as a result of Inspections and Corrective Actions a)
+b) etc.
+
+6-	Date Checked	Checked By
+Total Electrical Acceptance By
+
+Reviewed By Q.C. Manager
+                                                      (Initial)
+ 
+Section	E Issue:
+Date: 	
+
+
+RECORDS OF GAS LEAK TESTS (WHERE GAS SYSTEM IS INSTALLED)
+
+
+Unit Model:	 		Serial No.:	 	
+
+
+Before appliances are connected: Pressure of 15 psig or 1½ times working pressure whichever greater shall be applied to the piping system for 15 minutes, without drop of pressure.
+
+Pressure Applied:	psig
+Time:	minutes
+Results:
+
+
+After appliances are connected:	The gas system must withstand the working pressure of appliances for 10 minutes, without drop of pressure.
+
+Pressure Applied:	psig
+Time:	minutes
+Results:
+
+
+I certify there is no leak in the piping system
+
+
+
+Piping installation accepted by
+Q.P. Inspector Date:
+ 
+
+Section E Issue:
+Date: 	
+
+Moisture content verification
+
+
+Moisture content of lumber shall not be more than 19% at the time of installation
+
+
+Unit NUMBER:	Tester Name:  	
+
+
+
+Instrument Make/Model:	#:	Calibration Date:  	
+
+
+RF Joists/Trusses:		Date:	Initials:  	
+
+
+
+Floor Joists:		Date:	Initials:  	
+
+
+
+Exterior Studs:		Date:	Initials:  	
+
+
+
+Exterior Sheathing:	Date:	Initials:  	
+
+
+
+
+
+
+
+Reviewed By Q.C. Manager:	Date:  	
+(Signature)
+ 
+
+ 
+
+
+
+
+8.	Customer Complaint
+ 
+Section	E Issue:
+Date: 	
+ 
+
+In the event of a customer complaint, resulting from the factory constructed product, the customer shall fill out form CC form-00 in Appendix E. The Quality Control Manager or his designate must conduct a root cause analysis of this complaint and work to address the complaint with the customer. The QC manager must maintain records of these forms along with follow up actions and resolution reports. These records must be included as part of the quality control records for that unit. Safety related complaints must be reported to CSA Group.
+ 
+Section	F Issue:
+Date: 	
+
+DOCUMENT INITIATION
+
+1)	The purpose of document initiation carried out by the engineering department in coordination with the Quality Program department is to enable the production department to follow up in all respects of the drawings or work instruction, and therefore to make it unlikely to cause defects in fabricating the tiny house.
+
+
+2)	The engineering manager ensures that the drawings and calculations have been prepared and checked for adequacy for a specific tiny house model before these are released for production.
+
+
+3)	The documents that must be prepared and checked consist of at least the following:
+
+a)	Roof truss design – by test or calculation, certified;
+b)	Engineered floor joist system - by test or calculation, certified;
+c)	Ridge beam design (in double wide units and multiple modules);
+d)	Pier loading, location and foundation details;
+e)	Plumbing Schematics;
+f)	Heat loss calculation and duct design;
+g)	Ventilation and make up air;
+h)	Electrical circuits and outlet location;
+i)	Cross sectional construction details;
+j)	Floor plans; and
+k)	Others.
+
+
+4)	The following records are retained for each tiny house. One set of the following records is maintained by Quality Assurance and is available to be viewed upon request:
+
+a)	A full set of engineering drawings for each model of building produced in the manufacturing facility to include but not be limited to the following:
+1.	Architectural Drawing set of the proposed building model including building plans, elevations and sections. Full details of materials used in walls, roof and floor envelope assemblies with supporting calculations to show building design is in compliance with energy efficient design requirements.
+2.	Engineered Roof Framing Plan and Truss Details stamped with the seal of a Professional Engineer licensed in the province where the structure is destined, showing the assumed design loads and the ground snow load.
+3.	When engineered floor joist or truss system is used; a set of Engineered Floor Framing Plan and Joist design details stamped with the seal of a Professional Engineer licensed in the province where the structure is destined.
+4.	Set of electrical schematic drawings illustrating all branch circuits, wire type & size,
+ 
+breaker type and ampere rating. Include a detailed electrical panel schedule.
+
+
+Section	F Issue:
+Date: 	
+
+DOCUMENT INITIATION Cont’d :
+
+
+5.	Set of plumbing schematic drawings including the service water piping system and the drain, waste and venting (DWV) system depicting all material, sizes and connection lengths.
+6.	Set of drawings for the heating and ventilation (HVAC) system including supply and return plenums, ducts, diffusers and flues.
+7.	A set of drawings for gas piping system, including layout, connections, valves and sizes, as applicable.
+8.	Calculations of the total ventilation demand compared with capacities of supplied ventilation unit(s) as per the National Building Code – As Provincially Amended;
+9.	Calculations of total building heat loss and heat gain (as required), compared with capacities of supplied heating and air-conditioning unit(s);
+10.	Detailed sketch of the air and vapour barrier continuation between modules and stories, including material and provisions used to maintain the integrity of the air and vapour barrier
+
+b)	Record of factory tests completed on each building, specifying the date, applicable tests, equipment calibration information and the qualification of the person(s) who conducted the tests along with their signature;
+c)	Quality control production checklist; completed, dated and signed by licensed personnel in the construction, electrical, gas, oil and plumbing disciplines;
+d)	Quality control deficiencies list recorded and maintained on file. The list shall include a sign-off portion adjacent to each item with adequate space to allow for full details to be provided and recorded (along with a signature) indicating what corrective measures were taken to complete those items;
+e)	Set of handling and installation instructions for moving and site contractor(s) and/or for multi-module, multi-story units showing details of lifting, connection, and foundation placement points;
+f)	A Letter to the building owner with a copy to local authority, including all items that were not completed on the factory and will be completed on site with applicable permits to the satisfaction of the authority having jurisdiction; and
+g)	Copies of CSA label and specification nameplates that were affixed to the product.
+ 
+h)	Section	F
+Issue:
+Date: 	
+
+
+
+
+DOCUMENT CONTROL
+
+
+
+1)	The purpose of document control is to ensure all essential documents affecting quality are reviewed for adequacy and approved for release to be used by the departments concerned.
+
+
+2)	The responsibility for the control of documents lies with the quality manager, who has been given the authority by the General Manager. He ensures that the following have been prepared, released and used:
+
+a)	Quality program manual – used by all departments;
+b)	Quality program forms – used by quality program department and inspector;
+c)	Procedures and work instructions – used by production department;
+d)	Instructions to purchasing agent – used by purchasing agent and receiving agents;
+e)	Engineering drawings, calculations and specifications – used by production department.
+
+
+3)	When documents are reviewed and revised, the revisions are identified by a revision date in the footer of the document. The documents are re-issued to the departments concerned, and obsolete documents are removed from all points of use.
+
+4)	Controlling the CSA Mark & application of the labels:
+a.	Upon receipt of CSA Labels, the labels will be kept in a locked cabinet that only the Quality Control Person and the General Manager will have a key to access.
+b.	Before qualifying the RTM unit for the CSA certification and application of the CSA Label, all checklists and tests must be completed by each work station, dated and signed by the Certified Trades Person and dated and signed by the Quality Control Person.
+c.	When a finished RTM Unit fails a technical test or is found with a deficient item(s) the incomplete or problem area will be identified. Management will assess the deficiency and determine the solution. The repair or solution will be applied and the Unit will then be tested again to determine if it now qualifies for CSA label. The CSA Label will then be applied to the qualified RTM.
+ 
+d.	Section	F
+Issue:
+Date: 	
+
+
+
+
+DISPOSITION OF DEFECTIVE MATERIALS AND COMPONENTS
+
+
+
+1-	Depending on the nature of defect, materials and components are to be reworked or replaced. The corrected system is then re-inspected according to the applicable requirements and must receive approval from the quality program manager or his designated representative.
+
+
+2-	Defective materials or components which can not be reworked are scrapped or returned to supplier.
+
+
+3-	All defective materials and components shall be identified by “Hold Tags” (See Exhibit F3) which are to be removed only by the quality program manager or his designated person.
+
+
+4-	All defective materials and components shall be segregated from good materials and components, in such a manner as to provide positive control by the quality program manager or his designated person.
+
+
+
+EXHIBIT F3
+RED COLOURED TAG
+ 
+Section	G Issue:
+Date: 	
+
+
+
+
+
+QUALITY RECORDS
+
+
+
+All inspection records shall be kept for a minimum period of 5 years. The records are referred to the quality program manager for evaluation and appropriate preventative action, which may involve consultation with other departments. Example of such records are as follow:
+
+1)	Purchasing Documents.
+2)	Receiving Documents.
+3)	Calibration Documents.
+4)	Labels and Products Traceability Records
+5)	Project Documents:
+a)	As built drawings set (Architectural, Structural, Electrical, Plumbing, Gas, and HVAC).
+b)	Engineered stamped roof and floor structural systems when manufactured components are used.
+c)	Technical design checks (efficient energy design, ventilation demand, heat loss/gain demand).
+d)	Production checklists.
+e)	Test Records (electrical, DWV, potable water, gas, moisture content, air flow, static pressure)
+f)	Non-Conformance Reports.
+g)	Letter to tiny house owner and copy to Local Authority of all items to be completed on site, and which may require permitting to the satisfaction of the local regulatory authority.
+h)	Information to transport and site installation contractors on lifting, transport, placement and anchoring instructions.
+
+
+Technical Design Checklists are completed by Engineering confirming all technical requirements for the project design are met before releasing for production. The design checklists are to be checked by an independent engineering person, who is also familiar with the various codes.
+
+Production Checklist is to be filled out by supervisory personal within the subassembly production station by placing their initials and date beside the line item on the checklist. The Quality supervisor will review and check the work and forms by signing and dating the reviewed space.
+ 
+Section	G Issue:
+Date: 	
+
+
+
+
+
+NON-CONFORMANCE REPORT
+
+
+
+
+Manufacturer’s Name:	 		Date:   	
+Plant Address:	 		Model: 	
+	
+
+ 
+Serial:  	
+
+
+
+
+1-	Details:
+
+
+
+2-	Reason for Non-Conformance:
+
+
+
+3-	Methods of Disposition:
+
+
+
+4-	Re-Inspection or Retested By:
+
+
+
+
+
+I certify that the above items have been corrected.
+
+
+Q.A. Signature
+ 
+Section	H Issue:
+Date: 	
+
+
+
+REVIEW AND REVISION OF THE MANUAL
+
+
+
+1.	Responsibilities:
+1.1	The quality program manager shall be responsible for periodic review of this manual to ensure that the written procedures are effective in controlling quality and providing adequate evidence of conformity of products to specified requirements. The review period shall not exceed 12 months.
+
+1.2	All other managers in the company shall bring to the attention of the quality program manager all proposed changes in practice, which will improve control of quality, or maintain adequate control in a simpler manner.
+
+1.3	The quality program manager shall be responsible for reporting to the CSA Group, all changes in procedures and in the Appendices to this manual.
+
+
+2.	Actions:
+2.1	The quality program manager shall review the procedures in this manual, and the information provided in the Appendices at least once a year, to make sure they are correct and adequately effective in control of quality.
+
+2.2	Any serious failure to control quality shall be considered a cause for review of actual practice against the applicable written procedures. The procedures shall be revised if necessary to improve control of quality.
+
+2.3	A request for revision from another department manager shall be reviewed by the quality program manager for effectiveness in improving control of quality, or making it easier to control.
+
+2.4	All revisions shall require approval of the quality program manager, the general manager and CSA prior to implementation.
+
+2.5	All revisions to this manual shall be submitted for CSA Group for approval.   All holders of copies of this manual shall receive copies of all revisions, and shall replace the old issues with the revised ones, returning the old issues to the quality program manager
+ 
+Appendix	“A” Issue:
+Date: 	
+
+
+APPENDIX “A”
+
+
+Quality Program Personnel as of	,20
+
+
+ 	  Quality program manager Brief Work History
+
+ 	  Receiving inspector Brief Work History
+
+ 	  Inspector assigned to assembly stations: 1, 2, 3, 4 and 5 Brief Work History
+
+ 	  Inspector assigned to assembly stations: 6, 7, 8, Final inspection Brief Work History
+
+ 	  Inspector assigned to cover all plumbing Brief Work History
+
+ 	  Inspector assigned to cover all electrical Brief Work History
+
+ 	  Inspector assigned to cover all gas / oil features Brief Work History
+
+ 	  Inspector assigned to cover all vehicular features (If applicable) Brief Work History
+
+
+NOTES:
+
+i)	Work histories should include at least the length of service with the company and positions held, a summary of skills and aptitude (e.g. master plumber) and whether the person is familiar with applicable codes and can read the appropriate drawings.
+
+ii)	The quality program manager shall be a person with adequate background in all phases of operations, including administration.
+ 
+Appendix	“B” Issue:
+Date: 	
+
+
+APPENDIX “B”
+
+Work Stations:
+
+
+Workstation #1 - Floor Assembly.	Workstation #2 - Wall Assembly.
+Workstation #3 - Roof Assembly.	Workstation #4 - Electrical, Plumbing Rough-ins. Workstation #5 - Roof Shingles.	Workstation #6 - Exterior Windows and Doors.
+Workstation #7 - Insulation and Vapour Barrier.	Workstation #8 - Perimeter Wall Interior Sheathing. Workstation #9 - Vinyl Siding, Soffit and Fascia.	Workstation #10 - Gyproc Installation and Taping. Workstation #11 - Finishing Carpentry.	Workstation #12 - Painting.
+Workstation #13 - Cabinet Installation.	Workstation #14 - Floor Coverings. Workstation #15 - Plumbing and Electrical Finishes.
+
+
+
+
+
+
+
+
+
+SAMPLE ONLY OF PLANT LAYOUT FOR A277 PROGRAM
+ 
+
+
+
+Moving & Installation Instructions
+ 
+Appendix	“C” Issue:
+Date: 	
+ 
+
+Owner:	Unit: 	
+
+
+
+1.	Site Preparation and Foundation:
+
+•	The site should be level and landscaped to drain water away from the unit.
+•	The ground directly under the unit should be free of rock, roots, and debris and graded so that no water can accumulate under the unit.
+•	The site should be cleared large enough to accommodate the movers to be able to move equipment around and deliver the unit. If the site has limited access, then the movers should be consulted and a plan can be created.
+•	Foundation for the unit (pile, shallow foundation or basement wall foundation) shall be completed per engineering plans and specifications under a local building permit to the satisfaction of the local authority having jurisdiction.
+
+2.	Handling and Moving the Unit: Mover to provide:
+•	A written hazard assessment and a rout travel plan.
+•	Lifting and installation plan specifying the unit lift points and beam locations during the move as well as during off-loading and placing on final foundations.
+•	WCB clearance letter and proof of insurance.
+
+3.	Guide for Service Connection:
+
+•	The connection of sewer, water, electrical, and gas must be done by a qualified person under a site work permit to the satisfaction of the local AHJ.
+•	Facilitating and arranging for site connection permits and qualified professional trades is the responsibility of the owner/other (refer to Letter to Owner).
+ 
+
+
+Appendix	“C” Issue:
+Date: 	
+
+4.	Guide for Multi Module Connection:
+
+•	Refer to details ……………….. & …………………on structural drawing	&
+…………………for structurally connecting the modules together and maintaining the required strength and rigidity.
+•	Refer to details ……………….. & ………………….on architectural drawing	&
+………………….for maintaining the integrity of the air and vapour barriers, insulation, sheathing membrane, cladding, roofing and flashing at the joints between the modules.
+•	Refer to details ……………….. & …………………on mechanical drawing	&
+…………………for connecting ducting, piping.
+•	Refer to details ……………….. & …………………on electrical drawing	&
+…………………for connecting wiring.
+•	Refer to details ……………….. & …………………on drawing …………… &	for
+maintaining the integrity of fire separations and providing fire blocking between modules where required.
+ 
+
+
+
+LETTER TO OWNER
+
+Owner:  	
+
+Project: 	
+ 
+Appendix	“D” Issue:
+Date: 	
+ 
+
+Please note the following items have not been completed in the factory and will require to be completed on site. The grid identifies the party responsible for the item.
+(Select all that apply)
+
+
+
+Item	
+
+Description	
+
+By Owner	
+By Manufacturer	
+By
+	Applying for the appropriate permits:			
+	Development,			
+	Building,			
+	Sewer,			
+	Water,			
+	Gas,			
+	Electrical,			
+	Plumbing,			
+	Hiring the mover.			
+	Preparing the site.			
+	Installing foundations			
+	Interconnecting modules and floors			
+	Installing gutters and downspouts			
+	Installing exterior decks, stairs, handrails, and walks			
+	Installing skirting or parging			
+	Installing basement stairs			
+	Connecting services to the unit (water, sewer, electrical, gas, etc.)			
+	Other			
+	Other			
+
+
+
+Signature:		Date: 	
+
+
+      c/c Local AHJ
+ 
+
+Appendix	“E” Issue:
+Date: 	
+
+
+CUSTOMER COMPLAINT FORM
+
+Date:	 	
+Name:
+ 
+Unit #:    	
+
+Location of the problem within the unit:
+
+
+
+Description of the problem:
+
+
+
+
+
+
+
+
+Please print names for all areas below
+
+
+Complaint take by:	 	
+
+
+Complaint reviewed with:    	
+
+
+Complaint resolved by:	 	
+
+
+Date resolved:	 	
+ 
+
+Appendix “F” Issue:
+Date: 	
+
+
+TECHNICAL CHECKLIST
+Location:	Town:_	Code used:_	_.
+
+Ground Snow Load:	, Rain:_	, Design Temperature:_	, Wind Pressure:	_.
+
+Foundation:	_Footings:_	_, Weeping tile:_	_, Sump required:_	_.
+
+Floor Design:
+Loading:    	
+Type of joist:	Stamped Eng. _	_,
+ 
+
+Commercial designation:	, Grade:	, Span:	_, Cross bracing:	,
+ 
+
+Rim board size	Grade:	, Ply:	_.
+ 
+
+Roof Design:
+Loading:		, Spacing:_	, Engineered stamped dwg.:_		_, Slope:	Single type:		, Sheathing:	.
+
+Wall Design:
+Stud spacing:	, Size:	Commercial designation:_	_,
+Grade:	_, Attachment method:	_, Additional Bracing used:
+ 
+Lintels:_	, Exterior sheathing:_		_, Interior sheathing: _	_. Siding:		, Fire/party walls:	.
+Vapour Barrier and Insulation Design:
+Vapour barrier:_	, Vapour hats:	,
+Overlap and sealed:_	. Insulation R value:
+Ceiling:	_, Walls:	_, Floor:
+ 
+ 
+
+
+TECHNICAL CHECKLIST CONT’D
+
+
+Type of insulation: Ceiling:	, Walls:_	, Floor:		.
+
+Note blown-in cellulose used in attic insulation can be used up to slopes 2.5 in 12 only.
+
+Windows and Doors Design:
+Window types:_	_, Exterior door:_	_, Interior doors:_	_,
+
+Alternate egress: 	
+
+Heat Loss, Ventilation, Make Up Air Design:
+Heat Loss calculation:	, Ventilation requirements:	_.
+
+Principle exhaust:	, supplementary Exhaust:	, Make up air:_	_.
+
+Heating System used:_	, Chimney type:_	, clearance:_ .
+
+Fire place:	, Hot water heater:_    _, Other:	_.
+
+Solid Fuel Burning Appliance : 	
+
+Installers WETT Cert # 	
+
+Electrical Design:
+Load calculation:	_, Service Entrance requirements:	_,	
+
+Lighting:_	_, Receptacles:_	_, Appliance provisions: 	
+
+Interlocking heating system with exhaust system:_
+
+Plumbing Design:
+Drains:	, Venting,	, Potable Water system:	
+
+Comments:
+
+
+Designer: 	
+
+Reviewed By: 	
+
+Date: 	

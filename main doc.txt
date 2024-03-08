@@ -1,0 +1,487 @@
+
+
+Table of Contents
+1. Introduction	4
+1.1 Purpose	4
+1.2 Scope and Applicability	4
+1.3 Quality Policy	4
+2. Quality Management System	5
+2.1 Quality Objectives	5
+2.2 Organizational Structure	5
+2.3 Responsibilities and Authorities	5
+2.4 Documentation Control	6
+2.5 Record Keeping	6
+3. Regulatory Compliance	6
+3.1 Building Codes and Standards	6
+3.2 Zoning Regulations	7
+3.3 Environmental Compliance	7
+4. Design and Engineering Standards	8
+4.1 Structural Integrity	8
+4.2 Materials Specifications	8
+4.3 Electrical Systems Design	8
+4.4 Plumbing Systems Design	9
+4.5 HVAC Systems Design	9
+5. Manufacturing Processes	9
+5.1 Quality Control Procedures	9
+5.2 Inspection and Testing Protocols	9
+5.3 Supply Chain Management	10
+6. Product Specifications	10
+6.1 Tiny House Model Specifications	10
+6.2 Materials and Components Specifications	11
+6.3 Energy Efficiency Standards	11
+6.4 Accessibility Features	11
+7. Testing and Evaluation	11
+7.1 Pre-production Testing	12
+7.2 In-process Testing	12
+7.3 Final Inspection	12
+7.4 Performance Testing	12
+8. Documentation and Manuals	13
+8.1 Assembly Manuals	13
+8.2 Maintenance Guides	13
+8.3 Manufacturer's Warranty	13
+9. Continuous Improvement	14
+9.1 Feedback Mechanisms	14
+9.2 Corrective and Preventive Actions	14
+9.3 Audits and Inspections	14
+11. Environmental Sustainability	15
+11.1 Sustainable Practices in Manufacturing	15
+11.2 Energy Efficiency Initiatives	15
+11.3 Eco-friendly Materials	16
+12. Instrument Calibration Record	16
+13. Quality Program Implementation	17
+14. Records of Plumbing Test	21
+15. Records of Electrical Test	21
+16. Records of Moisture Test	21
+17. Workstation Layout	21
+
+
+
+
+1. Introduction
+
+Habitat28 is committed to delivering high-quality prefabricated tiny homes that meet and exceed customer expectations. This Quality Assurance Manual serves as a cornerstone for ensuring the consistent quality of our products and processes. It outlines the principles, procedures, and standards that guide our quality management system, reflecting our dedication to excellence in every facet of our operations.
+
+1.1 Purpose
+
+The primary purpose of this Quality Assurance Manual is to establish a framework for maintaining and continuously improving the quality of our manufactured tiny homes. It serves as a comprehensive reference for our employees, outlining the protocols and standards that must be adhered to in the design, manufacturing, and delivery of our products. By providing clear guidance, this manual aims to instill a culture of quality consciousness across all levels of the organization.
+
+1.2 Scope and Applicability
+
+This manual applies to all aspects of Habitat28's operations related to the design, production, and distribution of prefabricated tiny homes. It encompasses the entire product lifecycle from concept to delivery, ensuring that quality considerations are integrated at every stage. All employees, contractors, and stakeholders involved in these processes are bound by the guidelines set forth in this manual. The scope extends to compliance with relevant regulations, building codes, and industry standards governing our operations.
+
+1.3 Quality Policy
+
+At Habitat28, our commitment to quality is encapsulated in our Quality Policy. We pledge to:
+Design and manufacture prefabricated tiny homes that meet or exceed customer expectations.
+Comply with all applicable regulatory requirements, building codes, and industry standards.
+Continuously improve our processes and products through innovation and feedback mechanisms.
+Foster a culture of quality consciousness among our employees through training and development initiatives.
+Ensure transparency and effective communication both internally and externally.
+Monitor and assess the environmental impact of our operations, striving for sustainable and eco-friendly practices.
+
+2. Quality Management System
+
+Habitat28 recognizes the paramount importance of a robust Quality Management System (QMS) in achieving and sustaining excellence in our operations. Our QMS is designed to ensure the consistent quality of our prefabricated tiny homes by establishing clear processes, responsibilities, and performance metrics.
+
+2.1 Quality Objectives
+
+Our Quality Objectives are aligned with our overall business goals and customer expectations. They serve as measurable targets to drive continuous improvement. 
+These objectives encompass:
+Meeting or exceeding customer satisfaction through product quality and service excellence.
+Ensuring compliance with relevant regulatory requirements and industry standards.
+Enhancing efficiency in manufacturing processes to reduce lead times and increase productivity.
+Implementing innovative solutions to address emerging customer needs and industry trends.
+
+2.2 Organizational Structure
+
+The organizational structure of Habitat28 is designed to facilitate effective communication, accountability, and collaboration. Key components of our structure include:
+
+Executive Leadership: Providing strategic direction and oversight of the entire organization.
+Quality Management Team: Responsible for the implementation and continuous improvement of the QMS.
+Production and Operations Teams: Focused on the efficient manufacturing of prefabricated tiny homes.
+Design and Engineering Teams: Tasked with ensuring structural integrity, adherence to codes, and innovative design.
+Quality Assurance and Control Teams: Conducting inspections and testing to uphold quality standards.
+Customer Service: Engaging with customers to address inquiries, feedback, and concerns.
+2.3 Responsibilities and Authorities
+
+Clear delineation of responsibilities and authorities is fundamental to our Quality Management System. Employees at all levels have defined roles and authorities relevant to their positions. Responsibilities include:
+Executing tasks in accordance with established quality procedures.
+Reporting non-conformities promptly and participating in corrective actions.
+Adhering to safety and environmental standards.
+Contributing to continuous improvement through feedback and innovation.
+
+2.4 Documentation Control
+
+Documentation is a critical component of our Quality Management System, ensuring consistency and transparency. The control of documents involves:
+Document creation, review, approval, and distribution processes.
+Version control and accessibility to authorized personnel.
+Regular audits to ensure document accuracy and relevance.
+Training programs to educate employees on document usage and updates.
+
+2.5 Record Keeping
+
+Comprehensive record-keeping is integral to tracking and evaluating our processes. Our record-keeping practices include:
+Maintaining records of inspections, tests, and product specifications.
+Archiving documents related to design, manufacturing, and quality control.
+Establishing secure and organized record storage systems.
+Retaining records for the prescribed durations to comply with regulatory requirements.
+
+3. Regulatory Compliance
+
+Habitat28 places paramount importance on regulatory compliance to ensure the safety, quality, and sustainability of our prefabricated tiny homes. Our commitment extends to adhering rigorously to building codes, zoning regulations, environmental standards, and health and safety regulations.
+
+3.1 Building Codes and Standards
+
+Our design and manufacturing processes strictly adhere to relevant building codes and standards. This includes compliance with national and local building codes that govern structural integrity, fire safety, energy efficiency, and other key aspects of construction. Continuous monitoring and updates to our practices ensure alignment with the latest industry standards, providing assurance to our customers and regulatory authorities.
+
+3.2 Zoning Regulations
+
+Understanding and complying with zoning regulations is crucial to delivering tiny homes that seamlessly integrate into diverse environments. Habitat28 ensures that our designs and products adhere to zoning regulations specific to various regions. This includes considerations for setback requirements, maximum height restrictions, and other zoning parameters. By staying informed about local zoning ordinances, we contribute to the harmonious integration of our homes into different communities.
+
+3.3 Environmental Compliance
+
+Environmental sustainability is a core value at Habitat28. We are committed to minimizing our ecological footprint and actively engage in environmental compliance. Our practices include:
+Utilizing eco-friendly materials in construction.
+Adhering to waste reduction and recycling measures in manufacturing.
+Regularly assessing and improving our energy efficiency initiatives.
+Complying with regulations related to emissions, pollutants, and waste disposal.
+4. Design and Engineering Standards
+
+Habitat28 places a paramount emphasis on design and engineering standards to ensure the structural integrity, safety, and overall excellence of our prefabricated tiny homes. Our commitment to these standards permeates every phase of the design and manufacturing processes.
+
+4.1 Structural Integrity
+
+Ensuring the structural integrity of our tiny homes is a foundational principle at Habitat28. Our design team follows stringent engineering standards and principles to guarantee the stability and durability of each structure. This involves:
+Rigorous analysis of load-bearing components.
+Adherence to industry-standard framing techniques.
+Compliance with structural engineering principles in line with relevant codes.
+
+4.2 Materials Specifications
+
+The selection of materials is a critical aspect of our design process. We meticulously specify materials to meet and exceed industry standards for safety, sustainability, and quality. Habitat28 is committed to:
+Utilizing materials that comply with relevant building codes and environmental standards.
+Ensuring materials are sourced responsibly with an emphasis on sustainability.
+Conducting thorough testing of materials to validate their strength, durability, and safety.
+
+4.3 Electrical Systems Design
+
+The electrical systems in our tiny homes are designed with precision and adherence to safety standards. Our electrical design process includes:
+Compliance with national and local electrical codes.
+Integration of energy-efficient lighting solutions.
+Implementation of circuit protection mechanisms for user safety.
+
+
+4.4 Plumbing Systems Design
+
+Our plumbing systems are designed to meet the highest standards of functionality, safety, and efficiency. Key considerations in our plumbing systems design include:
+Adherence to plumbing codes and regulations.
+Integration of water-efficient fixtures for sustainability.
+Thorough testing for leak resistance and water pressure optimization.
+
+4.5 HVAC Systems Design
+
+Habitat28 recognizes the importance of providing optimal indoor comfort through well-designed HVAC (Heating, Ventilation, and Air Conditioning) systems. Our HVAC systems design includes:
+Compliance with energy efficiency standards.
+Integration of ventilation systems for optimal air quality.
+Selection of heating and cooling solutions that align with local climate conditions.
+
+5. Manufacturing Processes
+
+At Habitat28, we take pride in our manufacturing processes, meticulously designed to uphold the highest standards of quality, efficiency, and sustainability. Our commitment to excellence extends across every facet of production, ensuring that each prefabricated tiny home meets and exceeds customer expectations.
+
+5.1 Quality Control Procedures
+
+Quality control is at the core of our manufacturing processes. Our Quality Control Procedures involve:
+Stringent checks at every stage of production, from material acceptance to final assembly.
+Implementation of standardized quality control checklists to ensure consistency.
+Regular training for manufacturing personnel on quality assurance protocols.
+Continuous monitoring and adjustment of processes based on quality performance data.
+
+5.2 Inspection and Testing Protocols
+
+To ensure the reliability and safety of our tiny homes, we adhere to comprehensive inspection and testing protocols:
+Structural inspections to verify adherence to engineering standards.
+Thorough testing of electrical, plumbing, and HVAC systems for functionality and safety.
+Inspection of materials and components at various stages of production.
+Randomized quality audits to maintain the highest quality assurance standards.
+
+5.3 Supply Chain Management
+
+Effective supply chain management is essential for the seamless flow of materials and components into our manufacturing processes. Our approach involves:
+Establishing partnerships with reliable suppliers who adhere to quality standards.
+Regular assessments of supplier performance and compliance.
+Implementing just-in-time inventory practices to minimize storage and handling costs.
+Developing contingency plans to address any disruptions in the supply chain.
+
+6. Product Specifications
+
+Habitat28 takes great care in defining and adhering to precise product specifications to ensure that our prefabricated tiny homes are not only innovative and aesthetically pleasing but also meet the diverse needs and expectations of our customers. These specifications cover various aspects ranging from design and materials to energy efficiency and accessibility features.
+
+6.1 Tiny House Model Specifications
+
+Our tiny house model specifications are crafted with meticulous attention to detail, encompassing:
+Architectural design features for aesthetics and functionality.
+Floor plans that maximize space utilization and offer a comfortable living experience.
+Structural specifications ensuring stability, durability, and compliance with relevant building codes.
+Interior and exterior finishes to meet diverse aesthetic preferences.
+Customization options to accommodate individual customer needs.
+
+
+6.2 Materials and Components Specifications
+
+Materials and components play a crucial role in the construction of our tiny homes. Our specifications include:
+Detailed descriptions of the materials used in the structure, insulation, and finishes.
+Specifications for windows, doors, and other key components to ensure quality and durability.
+Compliance with sustainability standards, incorporating eco-friendly materials when possible.
+Testing criteria and quality standards for all materials and components.
+
+6.3 Energy Efficiency Standards
+
+Habitat28 is dedicated to creating energy-efficient tiny homes, and our energy efficiency standards encompass:
+Utilization of energy-efficient appliances and fixtures.
+Integration of insulation materials to optimize heating and cooling efficiency.
+Compliance with energy efficiency ratings and certifications.
+Continuous research and adoption of emerging technologies for improved energy performance.
+
+6.4 Accessibility Features
+
+We recognize the importance of designing homes that are accessible to individuals of all abilities. Our accessibility features include:
+Design considerations for wheelchair accessibility and maneuverability.
+Placement of fixtures and features to accommodate a range of physical abilities.
+Inclusion of accessible entryways and ramps where feasible.
+
+7. Testing and Evaluation
+
+Testing and evaluation are integral components of Habitat28's commitment to delivering prefabricated tiny homes of the highest quality. Our comprehensive testing protocols cover various stages of production to ensure structural integrity, safety, and overall performance.
+
+
+
+7.1 Pre-production Testing
+
+Before commencing full-scale production, pre-production testing is conducted to validate design specifications and manufacturing processes. Key aspects of pre-production testing include:
+Prototype testing to verify the structural integrity and adherence to design specifications.
+Material testing to ensure the quality and suitability of components.
+Initial assessments of electrical, plumbing, and HVAC systems to identify potential issues.
+
+7.2 In-process Testing
+
+Throughout the manufacturing process, in-process testing is conducted to monitor and validate the quality of individual components and assemblies. This includes:
+Structural testing to confirm the integrity of framing and foundational elements.
+Ongoing inspections of electrical, plumbing, and HVAC systems during assembly.
+Verification of material specifications and quality at various production stages.
+Continuous monitoring to ensure adherence to design and engineering standards.
+
+7.3 Final Inspection
+
+A rigorous final inspection is conducted before each tiny home leaves our manufacturing facility. This thorough examination covers:
+Comprehensive structural inspections to confirm compliance with engineering standards.
+Testing of all electrical, plumbing, and HVAC systems for functionality and safety.
+Verification of finishes and aesthetic elements to meet design specifications.
+Final checks to ensure all components and features are in accordance with product specifications.
+
+7.4 Performance Testing
+
+Performance testing is conducted to validate the overall functionality and efficiency of our tiny homes. This includes:
+Energy efficiency testing to verify compliance with established standards.
+Testing of heating, ventilation, and air conditioning systems for optimal performance.
+Assessments of water systems to ensure efficient plumbing and waste management.
+Real-world simulations to evaluate the overall livability and comfort of the tiny homes.
+8. Documentation and Manuals
+
+Habitat28 recognizes the importance of clear and comprehensive documentation to support our customers throughout their tiny home ownership journey. Our commitment to transparency and customer satisfaction is reflected in the development and provision of detailed assembly manuals, maintenance guides, and manufacturer's warranties.
+
+8.1 Assembly Manuals
+
+Our assembly manuals serve as step-by-step guides to assist homeowners in the proper setup and installation of their prefabricated tiny homes. Key components of our assembly manuals include:
+Detailed diagrams and illustrations to aid in the visual understanding of the assembly process.
+Clear, easy-to-follow instructions for each stage of the assembly, from foundation to finishing touches.
+Safety guidelines and best practices to ensure a secure and efficient assembly.
+Contact information for customer support and assistance in case of queries.
+
+8.2 Maintenance Guides
+
+Maintenance is a crucial aspect of ensuring the longevity and optimal performance of our tiny homes. Our maintenance guides offer valuable insights into:
+Regular maintenance tasks to preserve the structural integrity of the tiny home.
+Care instructions for interior and exterior finishes, fixtures, and appliances.
+Seasonal maintenance tips to address weather-specific considerations.
+Troubleshooting guides to assist homeowners in identifying and resolving common issues.
+
+8.3 Manufacturer's Warranty
+
+Habitat28 stands behind the quality and durability of our prefabricated tiny homes, and our manufacturer's warranty reflects this commitment. Key elements of our warranty include:
+Clear terms and conditions outlining the coverage provided.
+Duration of coverage for various components and systems.
+Procedures for filing warranty claims and seeking repairs or replacements.
+Contact information for our dedicated warranty support team.
+
+9. Continuous Improvement
+
+Continuous improvement is a cornerstone of Habitat28's commitment to delivering excellence in the design, manufacturing, and performance of our prefabricated tiny homes. Our dedication to constant enhancement is reflected in our robust feedback mechanisms, proactive corrective and preventive actions, and regular audits and inspections.
+
+9.1 Feedback Mechanisms
+
+Feedback is a valuable resource for improvement, and we actively seek insights from various stakeholders, including customers, employees, and partners. Our feedback mechanisms include:
+Customer Surveys: Regular surveys to gather feedback on the overall satisfaction with our products and services.
+Customer Support Channels: Open lines of communication to receive and address customer inquiries, concerns, and suggestions.
+Employee Feedback: Platforms for employees to provide insights into manufacturing processes, safety protocols, and overall operations.
+Supplier Evaluations: Assessments of supplier performance to identify areas for improvement in the supply chain.
+
+9.2 Corrective and Preventive Actions
+
+Identifying and addressing issues promptly is crucial for maintaining the highest standards in our tiny home manufacturing. Our approach to corrective and preventive actions involves:
+
+Root Cause Analysis: In-depth analysis to identify the underlying causes of issues and deviations.
+Corrective Actions: Implementing immediate solutions to address identified issues and prevent recurrence.
+Preventive Actions: Proactively implementing measures to prevent potential issues from arising.
+Continuous Monitoring: Regularly assessing the effectiveness of implemented actions to ensure sustained improvement.
+
+9.3 Audits and Inspections
+
+Regular audits and inspections are conducted at various stages of our operations to ensure compliance with standards and identify areas for improvement. Our approach includes:
+Internal Audits: Periodic assessments of our processes, documentation, and adherence to quality standards.
+External Audits: Collaborating with third-party auditors to provide independent evaluations of our operations.
+Process Inspections: Regular reviews of manufacturing processes to identify efficiencies and areas for enhancement.
+Regulatory Compliance Audits: Ensuring ongoing compliance with building codes, environmental regulations, and safety standards.
+
+11. Environmental Sustainability
+
+At Habitat28, environmental sustainability is a core value that guides our operations from design to manufacturing. We are committed to minimizing our ecological footprint, integrating sustainable practices, prioritizing energy efficiency, and utilizing eco-friendly materials in the production of our prefabricated tiny homes.
+
+11.1 Sustainable Practices in Manufacturing
+
+Our commitment to sustainability is evident in our manufacturing practices, which include:
+Waste Reduction: Implementing efficient production planning and material optimization strategies to minimize waste generation.
+Recycling Initiatives: Incorporating recycling practices to reutilize materials whenever possible and reduce the demand for new resources.
+Energy-Efficient Operations: Optimizing manufacturing processes for energy efficiency to reduce overall energy consumption.
+Green Certifications: Pursuing and maintaining certifications that validate our commitment to sustainable manufacturing practices.
+
+11.2 Energy Efficiency Initiatives
+
+Habitat28 is dedicated to energy-efficient design and manufacturing, recognizing the importance of minimizing energy consumption. Our initiatives include:
+
+Energy-Efficient Appliances: Selecting and integrating appliances that meet or exceed energy efficiency standards to reduce overall electricity consumption.
+Insulation Techniques: Implementing advanced insulation materials and techniques to optimize heating and cooling efficiency, minimizing the need for excessive energy use.
+Renewable Energy Integration: Exploring and incorporating renewable energy sources, such as solar panels, to further reduce the carbon footprint of our tiny homes.
+Continuous Research: Staying abreast of technological advancements and industry best practices to continually improve the energy efficiency of our homes.
+
+11.3 Eco-friendly Materials
+
+The materials we use in our tiny homes are carefully selected with a focus on sustainability and environmental impact:
+Responsibly Sourced Wood: Ensuring that the wood used in construction comes from responsibly managed forests, promoting biodiversity and long-term ecological balance.
+Recycled and Upcycled Materials: Incorporating recycled and upcycled materials into our designs to reduce the demand for new resources and minimize waste.
+Low-impact Finishes: Choosing finishes and coatings with low volatile organic compound (VOC) content to minimize indoor air pollution and promote a healthier living environment.
+Biodegradable Materials: Exploring and integrating materials that are biodegradable or have minimal environmental impact at the end of their life cycle.
+
+12. Instrument Calibration Record
+To be filled
+
+Plumbing:	
+
+Electrical:	
+
+Gas:	
+
+Moisture:
+
+Air Flow:
+
+13. Quality Program Implementation
+
+1.	General:
+The control and assurance of quality is achieved through the cooperative efforts of all departments. The Quality Program Manager maintains surveillance over the quality related aspects of their activities & reports and promotes action to correct all serious discrepancies. He also promotes actions to improve procedures and reports on all the over-all results to the General Manager.
+
+2.	Engineering:
+Plans used in the production of our product are produced by our own engineering staff. All designs are checked for compliance with the applicable requirements by the quality program personnel before passed along to the production and sales departments.
+
+3.	Instrument Calibration:
+The Quality Program Manager shall ensure all measuring equipment are periodically calibrated. Instrument calibration to be repeated whenever there is a reason to doubt the accuracy of the results and/or at intervals not exceeding 12 months.
+
+4.	Production Inspection:
+Production checklists have been developed for each workstation or related series of workstations. It may be necessary from time to time to amend these checklists as new corrective/preventive Actions are implemented. On each checklist, a space is provided to outline the deficiencies requiring corrective action. The checklist shall not be signed, nor the product accepted until all deficiencies listed have been corrected. All checklists stay with the product through the production sequence and are filed by the quality program personnel upon final acceptance.
+There is on-line product inspection carried out by quality inspectors in each workstation in addition to that done by production crew for the purpose of checking that the tiny house segments produced conform to the drawings and specifications prepared by engineering. The quality manager will supervise and coordinate the inspection of the entire production. The checklists are to be initialed and dated by the person who completed the work and then signed by the Quality Manager or their designated personnel.
+This section outlines the work done at each workstation in the production line:
+
+•	Workstation #1	-	Metal Cutting.
+•	Workstation #2	-	Welding.
+•	Workstation #3	-	Welding & Carpentry.
+•	Workstation #4	-	Electrical, Plumbing, HVAC & Roofing.
+•	Workstation #5	-	Windows, Doors / Exterior Cladding.
+•	Workstation #6	-	Interior & Finishes.
+•	Workstation #7	-	Cabinet making.
+
+5.	Methods Of Testing:
+
+Prior to labeling and before the unit leaves the factory, the complete plumbing, gas/oil and electrical systems shall be tested on each unit produced. Testing of the heating/ventilation duct systems are to be carried out and recorded for every unit produced. Moisture check will be conducted to ensure compliance with Building Code Requirements.
+All tests are conducted in designated test areas in accordance with the following test methods and fully documented in the appropriate checklist. All failures in tests are noted, the fault found and corrective action taken, are noted on the checklist. Evidence of the passing of a test is by means of the signature of the Quality Inspector.
+
+Plumbing Tests
+
+Every potable water system shall be subjected to, and be capable of withstanding without leakage or loss of pressure, a water or air pressure of 700 kPa for 2 hours, in accordance with the applicable Plumbing Code.    When testing with water, potable water shall be used to test a potable water system.
+
+Every drain, waste and vent system shall be subjected to, and shall withstand without leakage, one of the following tests, as detailed in the applicable Plumbing Code:
+
+i)	water test; or
+ii)	air test;
+
+Water pressure test shall consist in applying a water column of at least 3 m to all joints. All opening, except the highest, are tightly closed with a testing plug or screw cap. The system or section shall be kept filled with water for 15 minutes.
+
+Air pressure test shall be conducted in accordance with the manufacture instructions. The air shall be forced into the system until the pressure reaches 35 KPa and is maintained for 15 minutes.
+
+When a final test is made; all traps are to be filled with water, the bottom and roof terminal to be sealed and pressure equivalent of 25 mm column of water maintained for 15 minutes with out adding more air.
+
+Gas Piping Systems
+
+Every gas piping system shall be subjected to, and be capable of withstanding without leakage or loss of pressure, pressure testing in accordance with the applicable Gas Installation Code.
+
+In locating leaks, the following requirements must be met:
+
+i)	an approved liquid leak detector solution or device shall be used;
+ii)	matches, candles, flames or other sources of ignition shall not be used;
+iii)	artificial illumination shall be restricted to better –powered hand flashlights of the safety type or certified explosion-proof equipment; and
+iv)	electric switches in or adjacent to the area of leakage shall not be operated, unless of the type designed for hazardous locations.
+
+Electrical System Tests
+
+The following tests shall be performed on the complete electrical assembly at the factory, as required by the applicable Electrical Code:
+
+a)	Continuity;
+Live conductors are tested for continuity by seeing that all fixtures or appliances connected to them operate correctly, and for receptacles a simple plug-in lamp is used at each receptacle to determine whether the receptacle circuit is continuous
+
+Ground conductors, including branch circuit grounds and skin sections are tested for continuity by a battery and lamp combination or by a battery and buzzer combination, arranged so that the lamp lights or the buzzer sounds when the two leads are in electrical contact.
+
+b)	Insulation Resistance;
+Equipment used is a 500V (dc) megger tester. Criteria for passing is that under ideal conditions, the readings of the appropriate table of the Canadian Electrical Code Part I, should be obtained as a minimum.  The test is conducted as follow:
+
+•	All circuit breakers and switches shall be in the “on” position, and all fuses are installed.
+•	One tester lead is connected to the line terminals of the service entrance panel (i.e. the two line terminals are shorted together) not including the ground.
+•	The other tester lead is connected to exposed metal.
+•	Readings are taken after a one minute application of the test voltage.
+•	If the above “per phase” test is not satisfactory, the test is repeated for each circuit.
+
+As an alternative to the insulation resistance test specified above; an ac dielectric strength test may be performed, in which case, an ac voltage of 900 V shall be applied for 1 min (or 1080 V for 1 sec) between all live parts and non-current-carrying metal parts without breakdown occurring.
+
+In performing either the insulation resistance or the dielectric strength test, the neutral shall be disconnected from ground for the test and be reconnected afterwards.
+
+The polarity of all receptacles, lamp sockets and other electrical equipment shall be checked.
+
+Moisture Check
+
+Moisture content of lumber shall not exceed 19% at the time of installation and during construction. This is verified by a calibrated moisture meter and results recorded. A procedure is to be developed for checking and recording, it is recorded on form # (create and fill in) and are filed with each project
+
+
+Air Flow Test
+
+Airflow measurement on all supplied heating and ventilation fan(s) are done using an air flow meter accurate to within ±15% of the flow being measured and recorded for each unit. A procedure is to be developed for this testing and recording.
+
+14. Records of Plumbing Test 
+To be filled
+15. Records of Electrical Test
+To be filled
+
+16. Records of Moisture Test
+To be filled
+
+17. Workstation Layout
+To be filled
+
+
