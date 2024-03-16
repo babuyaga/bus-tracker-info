@@ -2,6 +2,7 @@ import requests
 from geopy.distance import geodesic
 import csv
 import os
+import time
 
 # URL and parameters for the GET request
 url = "https://bt.mytransitride.com/api/VehicleStatuses"
@@ -9,6 +10,9 @@ params = {"patternIds": "15750,15754,15787"}
 
 # Path to the CSV file
 csv_file_path = 'businfo.csv'
+
+# Specific location (T)
+specific_location = (43.12345, -80.23456)  # Example coordinates
 
 def get_vehicle_statuses(url, params):
     response = requests.get(url, params=params)
@@ -21,7 +25,7 @@ def get_vehicle_statuses(url, params):
 def calculate_distance(lat1, lon1, lat2, lon2):
     return geodesic((lat1, lon1), (lat2, lon2)).meters
 
-def update_csv_with_vehicle_data(vehicle_data):
+def process_vehicle_data(vehicle_data, specific_location):
     if not os.path.exists(csv_file_path):
         with open(csv_file_path, 'w', newline='') as file:
             writer = csv.writer(file)
@@ -41,17 +45,21 @@ def update_csv_with_vehicle_data(vehicle_data):
         for vehicle in vehicle_data:
             vehicle_id = vehicle['vehicleId']
             lat_x, lng_x = vehicle['lat'], vehicle['lng']
+            distance_to_T = calculate_distance(lat_x, lng_x, *specific_location)
             
-            if vehicle_id in existing_data:
+            if distance_to_T < 150:
+                total_distance = 0
+            elif vehicle_id in existing_data:
                 lat_y, lng_y = float(existing_data[vehicle_id]['Latitude']), float(existing_data[vehicle_id]['Longitude'])
-                total_distance = float(existing_data[vehicle_id]['TotalDistance']) + calculate_distance(lat_x, lng_x, lat_y, lng_y)
+                distance_traveled = calculate_distance(lat_x, lng_x, lat_y, lng_y)
+                total_distance = float(existing_data[vehicle_id]['TotalDistance']) + distance_traveled
             else:
-                total_distance = 0  # Assuming new vehicles start with 0 total distance
+                total_distance = 0
             
-            # Update the data
             writer.writerow({'VehicleID': vehicle_id, 'Latitude': lat_x, 'Longitude': lng_x, 'TotalDistance': total_distance})
-            
             print(f"VehicleID: {vehicle_id}, Current Location: ({lat_x}, {lng_x}), Total Distance: {total_distance}")
 
-vehicle_statuses = get_vehicle_statuses(url, params)
-update_csv_with_vehicle_data(vehicle_statuses)
+while True:
+    vehicle_statuses = get_vehicle_statuses(url, params)
+    process_vehicle_data(vehicle_statuses, specific_location)
+    time.sleep(10)
